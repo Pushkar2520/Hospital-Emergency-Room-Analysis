@@ -28,5 +28,5 @@ To use Excel to analyze ER data and create dashboards that help understand patie
 - Designed an interactive dashboard using slicers and visuals
 
 
-## Dasboard
+## Dashboard
 ![Hospital_Room Analysis](https://github.com/user-attachments/assets/b3499154-159a-4101-bf2d-5f6a2e3c66e7)
