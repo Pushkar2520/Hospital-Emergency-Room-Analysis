@@ -17,7 +17,7 @@ To use Excel to analyze ER data and create dashboards that help understand patie
 - Which departments referred the most patients to the ER?
 - How many patients arrived without any referral?
 
- - Dashboard Interaction<a href="https://github.com/Pushkar2520/Hospital-Emergency-Room-Analysis/blob/main/Hospital_Room%20Dashboard.png">View Dashboard<a/>
+- Dashboard Interaction<a href="https://github.com/Pushkar2520/Hospital-Emergency-Room-Analysis/blob/main/Hospital_Room%20Dashboard.png">View Dashboard<a/>
 
 ## Process
 - Imported raw ER data into Excel
@@ -26,3 +26,7 @@ To use Excel to analyze ER data and create dashboards that help understand patie
 - Created pivot tables to answer key questions (e.g., wait time, referrals)
 - Built charts and KPIs from pivot tables
 - Designed an interactive dashboard using slicers and visuals
+
+
+## Dasboard
+![Hospital_Room Analysis](https://github.com/user-attachments/assets/b3499154-159a-4101-bf2d-5f6a2e3c66e7)
