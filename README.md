@@ -1,2 +1,3 @@
-# Hospital-Emergency-Room-Analysis
-Built an interactive Excel dashboard to analyze ER data, showing insights on patient volume, wait time, satisfaction, admission status, and referrals by department. Demonstrated skills in data cleaning, visualization, and healthcare analytics.
+# Hospital-Emergency-Room-Analysis(Interactive Dashboard creation using MS Excel)
+## Project Objective
+To use Excel to analyze ER data and create dashboards that help understand patient trends, wait times, and hospital performance.
