@@ -30,3 +30,15 @@ To use Excel to analyze ER data and create dashboards that help understand patie
 
 ## Dashboard
 ![Hospital_Room Analysis](https://github.com/user-attachments/assets/b3499154-159a-4101-bf2d-5f6a2e3c66e7)
+
+## Project Insights
+- Majority of patients (263) visited the ER without any referral.
+- Average wait time was 34.90 minutes, indicating potential delays in service.
+- Only 56.9% of patients arrived on time, suggesting a need for better appointment or triage management.
+- Gender distribution was nearly equal: 51% female, 49% male.
+- Highest number of visits came from age groups 60–69, 0–9, and 10–19, indicating demand from both elderly and children.
+- Most referrals came from General Practice and Orthopedics.
+- Admission rate was 49.48%, showing half the cases required further hospital care. 
+
+## Final Conclusion
+The dashboard highlights critical areas like high self-referral rates, delayed arrivals, and long wait times. These insights can help hospital management improve scheduling, staffing, and patient flow in the emergency room for better operational efficiency and patient satisfaction.
